@@ -1,6 +1,6 @@
 version: '3'
 services:
-  pro_24_jenkins_hola:
+  pro_24_jenkins_hola_1:
     build: .
     ports:
     - "7070:7070"
